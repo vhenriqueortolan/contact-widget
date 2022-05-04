@@ -1,6 +1,8 @@
+import { Widget } from "./components/Widget";
+
 export function App(){
     return (
-        <h1>Teste</h1>
+        <Widget />
     )
         
     
